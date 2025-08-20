@@ -7,6 +7,9 @@
 
 ` composer config repositories.mx-welcome git https://github.com/maoxian-1/nexusphp-mx-welcome.git `
 
-` composer require maoxian-1/nexusphp-mx-welcome `
+` composer require maoxian/nexusphp-mx-welcome `
 
-` php artisan plugin install maoxian-1/nexusphp-mx-welcome `
+` php artisan plugin install maoxian/nexusphp-mx-welcome `
+
+## 效果展示
+![截图](Snipaste.png)
